@@ -1,10 +1,6 @@
-.vscode/settings.json
 {
   "editor.tabSize": 2,
-  "editor.rulers": [
-    90,
-    140
-  ],
+  "editor.rulers": [90, 140],
   "files.trimTrailingWhitespace": true,
   "files.autoSave": "onFocusChange",
   "editor.cursorBlinking": "solid",
@@ -24,6 +20,6 @@
   "prettier.semi": false,
   "prettier.singleQuote": true,
   "prettier.trailingComma": "es5",
-  "typescriptHero.imports.insertSemicolons": false, // Following setting requires TypeScriptHero Extension
-  "typescriptHero.imports.multiLineWrapThreshold": 90,
+  "typescriptHero.imports.insertSemicolons": false, // Following setting requires TypeScript Hero Extension
+  "typescriptHero.imports.multiLineWrapThreshold": 90
 }
